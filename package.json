@@ -1,0 +1,20 @@
+{
+  "name": "pvdbsmf",
+  "version": "1.0.0",
+  "description": "Prevent Double Submit Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx terser -o dist/pvdbsmf.min.js index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acoshift/pvdbsmf.git"
+  },
+  "author": "Thanatat Tamtan <acoshift@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acoshift/pvdbsmf/issues"
+  },
+  "homepage": "https://github.com/acoshift/pvdbsmf#readme"
+}
